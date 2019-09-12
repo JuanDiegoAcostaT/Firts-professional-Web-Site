@@ -1,2 +1,10 @@
-# Firts-professional-Web-Site
-Simple Pagina de presentacion de mis habilidades , incluye html, css, javascript (jquery) y Responsive Design.
+# Website
+
+informative website about my skills in the world of frontend developer.
+
+- Javascript- jQuery
+- Html5
+- Css3 
+
+
+<img src="https://github.com/JuanDiegoAcostaT/Website/blob/master/browser.png" />
