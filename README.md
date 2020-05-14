@@ -7,4 +7,4 @@ informative website about my skills in the world of frontend developer.
 - Css3 
 
 
-<img src="./images/browser.png" />
+<img src="./images/Example.png" />
