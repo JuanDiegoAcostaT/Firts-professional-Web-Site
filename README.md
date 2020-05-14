@@ -7,4 +7,4 @@ informative website about my skills in the world of frontend developer.
 - Css3 
 
 
-<img src="https://github.com/JuanDiegoAcostaT/Website/blob/master/images/browser.png" />
+<img src="./images/browser.png" />
